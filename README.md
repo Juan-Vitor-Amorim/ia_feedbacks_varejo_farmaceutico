@@ -5,7 +5,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido como parte de um desafio criativo da **DIO**, com o objetivo de explorar o uso da **Inteligência Artificial para analisar feedbacks de clientes**.
+Este projeto foi desenvolvido como parte de um desafio criativo da **DIO**. Como trabalho na **Drogaria São Paulo** tive o objetivo de explorar o uso da **Inteligência Artificial para analisar feedbacks de clientes**.
 
 O desafio consiste em construir um prompt estruturado capaz de transformar avaliações e comentários em insights úteis para a tomada de decisão.
 
